@@ -1,0 +1,6 @@
+streamlit>=1.37,<2
+streamlit-authenticator>=0.4.2
+gspread>=6.1.0
+google-auth>=2.29.0
+pandas>=2.0.0
+plotly>=5.20.0
